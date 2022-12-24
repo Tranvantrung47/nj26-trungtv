@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "CPU", "description": "Các loại CPU cho máy tính" },
+  { "id": 2, "name": "RAM", "description": "Các loại ram cho máy tính" },
+  { "id": 3, "name": "SSD", "description": "Đĩa cứng SSD" },
+  { "id": 4, "name": "Màn hình", "description": "Màn hình cong Lg." },
+  { "id": 5, "name": "Chuột", "description": "Chuột logitech" },
+  { "id": 8, "name": "Sạc", "description": "Sạc nhanh" }
+]
